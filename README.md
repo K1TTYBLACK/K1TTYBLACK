@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working for FPV drone company <br>👯 I’m looking to collaborate and apply for robotics <br><br>💥 Burnt out from 3D Art and Animation in 2022<br>💥 Burnt out from coding since vibecoding became real<br><br>⚡ I still code for my personal projects
+🔭 I’m currently working for FPV drone company <br>👯 I’m looking to collaborate and apply for robotics <br><br>💥 Burnt out from 3D Art and Animation in 2022<br>💥 Burnt out from coding since vibecoding became real<br><br>⚡ I still code for my personal projects<br><br>🏠 I enjoy self-hosting and currently supporting my own home server.
 
 
 ## 🌐 Socials:
